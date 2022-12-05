@@ -33,4 +33,7 @@ jobs:
         displayName: 'Publish Output Files'
         inputs:
           pathtoPublish: '$(Build.SourcesDirectory)/out/'
-          artifactName: 'Lab Files'
+          artifactName: 'Lab Files' 
+          aftrifactname ;lab data files 
+          tag source build 
+          
